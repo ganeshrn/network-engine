@@ -6,4 +6,3 @@
 - import_playbook: command_parser/test.yml
 - import_playbook: textfsm_parser/test.yml
 - import_playbook: json_template/test.yml
-- import_playbook: yang2spec/test.yml
